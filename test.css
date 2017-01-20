@@ -23,6 +23,7 @@ h1 {
 #Content {
 	width: 700px;
 	padding: 15px;
+	background-color: brown;
 }
 
 #LeftNav, #Content, #Footer, #Header {
@@ -34,7 +35,7 @@ ul {
 }
 
 p {
-	color: red;
+	color: white;
 	font-family: Arial;
 }
 
