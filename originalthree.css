@@ -1,0 +1,40 @@
+.field {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: darkblue;
+	font-size: 20px;
+	font-family: monospace;
+	background-color: lightyellow;
+}
+
+h2 {
+	text-align: center;
+	color: purple;
+	font-size: xx-large;
+	font-family: fantasy;
+	font-weight: bold;
+}
+
+ul {
+	list-style-type: none;
+}
+
+body {
+	text-align: center;
+	color: violet;
+	font-size: 30px;
+	font-family: serif;
+	background-color: lightblue;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
